@@ -71,19 +71,6 @@ Delivered a comprehensive introduction to AI/ML fundamentals for undergraduate s
 
 ---
 
-## 📁 Repository Contents
-
-```
-aiml-expert-session/
-├── README.md (you are here)
-├── slides/
-│   └── AI_ML_talk.pptx - Full presentation slides
-├── media/
-    └── event_poster.png - Official event poster
-```
-
----
-
 ## 🎓 About the Speaker
 
 **Nidhi Dekate**  
