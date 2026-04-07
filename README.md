@@ -79,9 +79,7 @@ aiml-expert-session/
 ├── slides/
 │   └── AI_ML_talk.pptx - Full presentation slides
 ├── media/
-│   └── event_poster.png - Official event poster
-└── code/
-    └── (code examples to be added)
+    └── event_poster.png - Official event poster
 ```
 
 ---
